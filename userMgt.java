@@ -1,7 +1,7 @@
 Misgana
 pipo
 Samuel
-yousph 
+Abeba 
 Nahum
 Sara
 Martha
