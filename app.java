@@ -4,4 +4,4 @@ We Support;
 NodeJS Application
 Python Application
 C++
-Bug removed
+bug removed
